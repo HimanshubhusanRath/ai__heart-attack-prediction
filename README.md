@@ -18,4 +18,4 @@ In '_Heart-Attack-Prediction-v2-multiple-models.ipynb_', we can learn the below 
     9. LGBN (LGBM Classifier)
     10. PAC (Passive Aggressive Classifier)
     11. XGB (Gradient Boosting Classifier) 
-* Preparing a report on the input data using pandas profiling module.
+* Preparing a report on the input data using **pandas profiling** module.
