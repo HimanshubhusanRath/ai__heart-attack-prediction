@@ -1,10 +1,11 @@
-HEART ATTACK PREDICTION
+**HEART ATTACK PREDICTION**
 
 The problem here is to predict if there is a chance of heart attack based on certain input data.
 This is a classification problem.
 
 
-In 'Heart-Attack-Prediction-v2-multiple-models.ipynb', we can learn the below concepts 
+In '_Heart-Attack-Prediction-v2-multiple-models.ipynb_', we can learn the below concepts.
+
 * Training different types of models for this classification problem. Below models are considered here.
     1. LR (Logistic Regression)
     2. SVC (Support Vector Machine Classifier)
